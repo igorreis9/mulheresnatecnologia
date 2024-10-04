@@ -107,6 +107,7 @@ figure{
 img{
     width: auto;
     height: 135px;
+    border-radius: 20px;
 }
 
 form{
